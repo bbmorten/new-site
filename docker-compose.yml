@@ -4,6 +4,6 @@ services:
   docs:
     build: ./mkdocs.Dockerfile
     ports:
-      - 8016:8000
+      - 8017:8000
     volumes:
       - ./:/docs

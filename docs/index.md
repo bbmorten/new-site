@@ -1,3 +1,3 @@
-# List of AP Courses
+# Index Page
 
 [Computer Science Principles](principles.md)
